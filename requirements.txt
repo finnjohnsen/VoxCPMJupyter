@@ -1,0 +1,4 @@
+voxcpm
+jupyter
+funasr
+pydub
